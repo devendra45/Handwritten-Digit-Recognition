@@ -7,4 +7,4 @@ Digit prediction using deep learning
 
 ### Dataset used: MNIST Handwritten Digits
 
-### accuracy achieved: 99.6
+### accuracy achieved: 98.6
