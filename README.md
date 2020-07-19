@@ -6,3 +6,5 @@ Digit prediction using deep learning
 ### Convolutional Neural Network(CNN) model is used for training and prediction
 
 ### Dataset used: MNIST Handwritten Digits
+
+### accuracy achieved: 99.6
