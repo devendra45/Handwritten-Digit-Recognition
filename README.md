@@ -14,4 +14,15 @@ Digit prediction using deep learning
 
 2. Read the data
 
-3. 
+3. Exploratory data analysis
+
+4. Normalization
+
+5. Reshaping the data
+
+6.Defining architecture of neural network
+**CNN architecture is --> [[Conv2D->relu]*2 -> MaxPool2D --> Dropout]*2 --> Flatten --> Dense --> Dropout -->Output**
+
+6. Training and Validation split
+
+7. Evaluating the model
