@@ -20,10 +20,8 @@ Digit prediction using deep learning
 
 5. Reshaping the data
 
-6.Defining architecture of neural network
-
-**CNN architecture is --> [[Conv2D->relu]*2 -> MaxPool2D --> Dropout]*2 --> Flatten --> Dense --> Dropout -->Output**
-
+6. Defining architecture of neural network    **(CNN architecture is --> [[Conv2D->relu]*2 -> MaxPool2D --> Dropout]*2 --> Flatten --> Dense --> Dropout -->Output)**
+  
 7. Training and Validation split
 
 8. Evaluating the model
