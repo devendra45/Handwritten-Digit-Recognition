@@ -7,7 +7,7 @@ Digit prediction using deep learning
 
 ### Dataset used: MNIST Handwritten Digits
 
-### accuracy achieved: 98.6
+### Accuracy achieved: 98.6
 
 ### Steps:
 1. Import the neccessary libraries
@@ -21,8 +21,9 @@ Digit prediction using deep learning
 5. Reshaping the data
 
 6.Defining architecture of neural network
+
 **CNN architecture is --> [[Conv2D->relu]*2 -> MaxPool2D --> Dropout]*2 --> Flatten --> Dense --> Dropout -->Output**
 
-6. Training and Validation split
+7. Training and Validation split
 
-7. Evaluating the model
+8. Evaluating the model
