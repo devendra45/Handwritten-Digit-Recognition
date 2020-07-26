@@ -1,13 +1,14 @@
 # Handwritten-Digit-Recognition
 Digit prediction using deep learning
 
-###  My first project on Deep Learning
+##  My first project on Deep Learning
+## Notebook 1
 
 ### Convolutional Neural Network(CNN) model is used for training and prediction
 
 ### Dataset used: MNIST Handwritten Digits
 
-### Accuracy achieved: 98.6
+### Accuracy achieved: 98.6%
 
 ### Steps:
 1. Import the neccessary libraries
@@ -25,3 +26,17 @@ Digit prediction using deep learning
 7. Training and Validation split
 
 8. Evaluating the model
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Notebook 2
+## Simple ANN is used for training and prediction.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Prerequisites:
+1. Pandas
+2. Numpy
+3. Matplotlib.pyplot
+4. Keras
+
+
