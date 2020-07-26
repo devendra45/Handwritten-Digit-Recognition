@@ -31,6 +31,8 @@ Digit prediction using deep learning
 
 ## Notebook 2
 ## Simple ANN is used for training and prediction.
+### More detailed visualization and validation tests.
+### Approach is easier as compare to notebook 1(using CNN)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Prerequisites:
